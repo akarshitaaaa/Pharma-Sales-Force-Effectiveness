@@ -307,15 +307,18 @@ All four tables were loaded into SQLite and the following SQL queries were execu
 ## 📸 Screenshots
 
 ### Overview Page
-![Overview Dashboard](<img width="1335" height="749" alt="OVERVIEW PAGE (pharma)" src="https://github.com/user-attachments/assets/b07f1f5c-2f07-4985-b585-d938bc6cbaab" />
+![Overview Dashboard](<img width="1335" height="749" alt="overview_page" src="https://github.com/user-attachments/assets/03de5c28-b5a8-4454-bf7e-39ca0de91b43" />
+
 )
 
 ### Sales Analysis Page
-![Sales Analysis](<img width="1316" height="731" alt="SALES ANALYSIS (pharma)" src="https://github.com/user-attachments/assets/1399c188-1da3-4a70-8906-02860c39d38f" />
+![Sales Analysis](<img width="1316" height="731" alt="sales_analysis" src="https://github.com/user-attachments/assets/b7eda204-78c4-40d0-813f-3d3b7ea75e6a" />
+
 )
 
 ### Doctor Insights Page
-![Doctor Insights](<img width="1273" height="726" alt="DOCTOR INSIGHTS (pharma)" src="https://github.com/user-attachments/assets/cd717766-5c34-4a10-995c-8cb311292b83" />
+![Doctor Insights](<img width="1273" height="726" alt="doctor_insights" src="https://github.com/user-attachments/assets/175af469-260d-47f7-888e-94a4a9359153" />
+
 )
 
 ---

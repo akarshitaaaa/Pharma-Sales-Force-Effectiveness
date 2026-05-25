@@ -307,13 +307,16 @@ All four tables were loaded into SQLite and the following SQL queries were execu
 ## 📸 Screenshots
 
 ### Overview Page
-![Overview Dashboard](screenshots/OVERVIEW_PAGE__pharma_.jpeg)
+![Overview Dashboard](<img width="1335" height="749" alt="OVERVIEW PAGE (pharma)" src="https://github.com/user-attachments/assets/b07f1f5c-2f07-4985-b585-d938bc6cbaab" />
+)
 
 ### Sales Analysis Page
-![Sales Analysis](screenshots/SALES_ANALYSIS__pharma_.jpeg)
+![Sales Analysis](<img width="1316" height="731" alt="SALES ANALYSIS (pharma)" src="https://github.com/user-attachments/assets/1399c188-1da3-4a70-8906-02860c39d38f" />
+)
 
 ### Doctor Insights Page
-![Doctor Insights](screenshots/DOCTOR_INSIGHTS__pharma_.jpeg)
+![Doctor Insights](<img width="1273" height="726" alt="DOCTOR INSIGHTS (pharma)" src="https://github.com/user-attachments/assets/cd717766-5c34-4a10-995c-8cb311292b83" />
+)
 
 ---
 
@@ -401,13 +404,7 @@ The end-to-end approach — from raw CSV ingestion to an executive-ready dashboa
 
 ---
 
-## 👤 Author
 
-**[Your Name]**
-
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 💻 GitHub: [github.com/your-username](https://github.com/your-username)
-- 📧 Email: your.email@example.com
 
 ---
 

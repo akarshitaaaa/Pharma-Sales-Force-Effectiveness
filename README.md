@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Resume-Friendly Project Summary
+## 📌 Project Summary
 
 Built a full-stack pharma sales analytics solution using Python (pandas, matplotlib, SQLite) for data preprocessing and exploratory analysis, and Power BI for interactive multi-page dashboards. The project covers 10,000 sales transactions across 8 global regions (2020–2025), 100 doctors, 15 sales reps, and 5 product categories. Delivered actionable KPIs including total revenue of ₹232M+, revenue per call, top doctor and rep rankings, and category-level contribution analysis — all surfaced through filterable, drill-down Power BI dashboards.
 

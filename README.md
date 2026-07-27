@@ -117,7 +117,7 @@ Run against the four tables using CTEs and window functions:
 ## 📸 Screenshots
 
 ### Overview Page
-[Overview Page](<img width="1330" height="798" alt="overview_page" src="https://github.com/user-attachments/assets/d9130655-47e9-49c7-b758-24404e4eb74b" />
+![Overview Page](<img width="1330" height="798" alt="overview_page" src="https://github.com/user-attachments/assets/d9130655-47e9-49c7-b758-24404e4eb74b" />
 )
 
 ### Sales Analysis Page

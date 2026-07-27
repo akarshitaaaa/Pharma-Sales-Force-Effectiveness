@@ -66,7 +66,6 @@ A **relational model built on natural keys** (`DOCTOR_ID`, `Region`) — not a f
 - `rep_data.Region → territory_data.Region` — active, many-to-one
 - `sales_data.region → territory_data.Region` — **inactive** (Power BI auto-deactivates this to avoid an ambiguous second path between `sales_data` and `territory_data`)
 
-**Known modeling gap:** `sales_data` has no direct key to `rep_data` — they only share a `Region` field, and with multiple reps per region, this isn't a safe join key for rep-level attribution. `Revenue per Call` is therefore a company-wide efficiency estimate, not a true per-rep metric. A proper fix would require a `Rep_ID` column on each transaction, which the source data doesn't include.
 
 ---
 
@@ -140,13 +139,7 @@ Run against the four tables using CTEs and window functions:
 
 ---
 
-## ⚠️ Known Limitations
 
-- No **Doctor Conversion Rate** — the dataset has no field indicating whether an engagement led to an actual prescription; this KPI was deliberately excluded rather than estimated.
-- No true **Rep-to-Sales attribution** — `rep_data` and `sales_data` only share a `Region` field, not a direct key.
-- `stock_level`, `expiry_days_remaining`, and `covid_flag` exist in the raw data but are unused in the current dashboard.
-- Small scale (10,000 rows, 100 doctors) — appropriate for a portfolio project, not representative of real pharma transaction volumes.
-- Synthetic Kaggle dataset — patterns reflect generated data, not validated real-world behavior.
 
 ---
 

@@ -117,16 +117,13 @@ Run against the four tables using CTEs and window functions:
 ## 📸 Screenshots
 
 ### Overview Page
-![Overview Page](<img width="1330" height="798" alt="overview_page" src="https://github.com/user-attachments/assets/d9130655-47e9-49c7-b758-24404e4eb74b" />
-)
+<img width="1330" height="798" alt="overview_page" src="https://github.com/user-attachments/assets/d9130655-47e9-49c7-b758-24404e4eb74b" />
 
 ### Sales Analysis Page
-[Sales Analysis Page](<img width="1345" height="786" alt="sales_analysis_page" src="https://github.com/user-attachments/assets/6272e4e7-568a-4cb5-bc6f-73dec5301ec3" />
-)
+<img width="1345" height="786" alt="sales_analysis_page" src="https://github.com/user-attachments/assets/6272e4e7-568a-4cb5-bc6f-73dec5301ec3" />
 
 ### Doctor Insights Page
-[Doctor Insights Page](<img width="1371" height="731" alt="doctor_insights_page" src="https://github.com/user-attachments/assets/2a853d42-277e-4f83-be5b-ae0a768d5ad0" />
-)
+<img width="1371" height="731" alt="doctor_insights_page" src="https://github.com/user-attachments/assets/2a853d42-277e-4f83-be5b-ae0a768d5ad0" />
 
 ---
 
